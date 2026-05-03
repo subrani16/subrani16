@@ -19,7 +19,7 @@ I am a DataOps professional with a strong background in Computer Science and sys
 - **OS:** Linux (Ubuntu/Debian) & Windows.
 
 ### 📖 My Knowledge Base
-- **[Integration Notes](./integration-notes):** A collection of Markdown guides on  system integration.
+- **[Integration Notes](https://github.com/subrani16/integration-notes):** A collection of Markdown guides on  system integration.
 - **[Python Scripts](./scripts):** Small automation tools for data cleaning and file management.
 
 ---
