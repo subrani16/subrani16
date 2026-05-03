@@ -14,8 +14,8 @@ I am a DataOps professional with a strong background in Computer Science and sys
 
 ### 🛠 Tech Stack
 - **Languages:** Python, SQL, Bash, CLI, XML, JSON, Markdown, HTML/CSS.
-- **DataOps & AI Tools:** Encord, Amazon S3, GitLab, YOLO, Hybrisort.
-- **Integration & Support:** Postman, SoapUI, HTTP, Environment Configuration.
+- **DataOps & AI Tools:** Encord, Amazon S3, GitLab, YOLO, Hybrisort, Co-DETR.
+- **Integration & Support:** Postman, SoapUI, REST, Environment Configuration.
 - **OS:** Linux (Ubuntu/Debian) & Windows.
 
 ### 📖 My Knowledge Base
