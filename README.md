@@ -20,7 +20,7 @@ I am a DataOps professional with a strong background in Computer Science and sys
 
 ### 📖 My Knowledge Base
 - 📂 **Integration:** A collection of Markdown guides on system integration. [View my documentation](https://github.com/subrani16/integration-notes).
-- 🐍 **Automation:** Small automation tools for data collection,  cleaning and file management. [Explore my Python scripts](./scripts).
+- 🐍 **Automation:** Small automation tools for data collection,  cleaning and file management. [Explore my Python scripts](https://github.com/subrani16/scripts).
 - 🌐 **Web Dev:** [Track my learning progress](./learning-webdev).
 
 ---
