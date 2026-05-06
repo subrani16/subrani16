@@ -7,9 +7,9 @@ I am a DataOps professional with a strong background in Computer Science and sys
 ---
 
 ### 🚀 What I'm working on
-- **Data Lifecycle Management:** Curating and managing datasets for **Hand-Object Interaction (HOI)** and large-scale vehicle detection projects.
+- **Data Lifecycle Management:** Curating and managing datasets for **Human-Object Interaction (HOI)** and large-scale vehicle detection projects.
 - **Automation:** Developing Python scripts to automate frame extraction and annotation format conversions (COCO to YOLO).
-- **System Integration:** Documenting API workflows and environment configurations to ensure seamless product interoperability.
+- **System Integration:** Defining and documenting system handshakes and data flows to ensure seamless interoperability between hardware and management software.
 - **Web Development:** Building responsive interfaces and learning modern frontend frameworks to complement my backend experience.
 
 ### 🛠 Tech Stack
