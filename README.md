@@ -1,6 +1,6 @@
 # Hi there! I'm Maria Subrani 👋
 
-### DataOps Technician | Integration Specialist & Customer Support | Computer Science 👩‍💻
+### Data Lifecycle Management | System Integration | System Deployment | Customer Support | Computer Science 👩‍💻
 
 I am a DataOps professional with a strong background in Computer Science and system integration. Currently, I focus on the **AI Data Lifecycle**, ensuring high-quality datasets for Computer Vision models, while exploring modern **Web Development**.
 
